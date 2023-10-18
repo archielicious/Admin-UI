@@ -1,0 +1,30 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  /* .table {
+    text-align: left;
+  } */
+  /* .loading {
+    text-align: center;
+  } */
+  .MuiTableRow-root.Mui-selected.MuiTableRow-hover {
+    background-color: gainsboro;
+  }
+  .MuiToolbar-root {
+    background-color: white;
+  }
+  /* .select-all {
+    padding-left: 0.25rem !important;
+  } */
+  .snackbar {
+    font-family: monospace;
+    font-weight: 400;
+    /* padding: 6px 16px; */
+  }
+  .MuiButtonBase-root.MuiButton-root {
+    color: #e30b5c;
+  }
+  .MuiButtonBase-root.MuiButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
