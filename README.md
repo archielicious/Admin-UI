@@ -6,7 +6,7 @@ You work at a startup that is building an interface for admins to see and delete
 The users will be provided via an API.
 Your job is to build out a working UI.
 
-These are the requirements :
+These are the requirements :-
 
 1. Column titles must stand out from the entries.
 
